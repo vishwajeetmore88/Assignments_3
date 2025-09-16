@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
 		<item value="G:\Assignments_3"/>
 	</list>
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">
+=======
+		<item value="G:\New Assignment_3\Assignments_3"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value=""/>
+			<item value=""/>
+>>>>>>> bb50a3be5da0cfbb716eee6ab95fd6e51497aab1
 		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
